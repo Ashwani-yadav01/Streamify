@@ -53,3 +53,6 @@ cd frontend
 npm install
 npm run dev
 ```
+
+# Streamify
+Video  call and chat  application
